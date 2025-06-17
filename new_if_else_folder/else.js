@@ -1,4 +1,4 @@
-let age = 20
+let age = 63
 
 if(age >= 60){
   console.log(`you are in retirement age`)
